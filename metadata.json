@@ -1,0 +1,5 @@
+{
+  "name": "AgriSCADA IoT Dashboard",
+  "description": "A modern, SCADA-style IoT dashboard for smart farm monitoring. It provides real-time visualizations of sensor data, water tank levels, and an interactive map of farm areas.",
+  "requestFramePermissions": []
+}
